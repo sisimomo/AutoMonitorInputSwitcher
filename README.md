@@ -1,5 +1,8 @@
 <!-- https://github.com/othneildrew/Best-README-Template -->
 
+# DEPRECATED
+I didn't realize that there was already a similar project doing the same thing: [Display Switch](https://github.com/haimgel/display-switch). It's cross-platform, has much bigger community, and doesn't depend on [ControlMyMonitor](https://www.nirsoft.net/utils/control_my_monitor.html).
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
